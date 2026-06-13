@@ -65,14 +65,20 @@ Git | GitHub | VS Code | Jupyter Notebook
 - Implemented step-by-step execution to demonstrate **algorithm behavior and time complexity concepts**.  
 - Designed dynamic UI components to allow users to customize input size and observe performance differences.  
 - Enhanced learning experience by translating theoretical concepts into **visual, real-time simulations**.  
-- Focused on improving user understanding of **algorithm efficiency and optimization techniques**.  
+- Focused on improving user understanding of **algorithm efficiency and optimization techniques**.
+
+## Personal Finance Analyzer | Machine Learning Project
+
+- Engineered an end-to-end data analytics pipeline for transaction parsing, categorization, clustering, and anomaly detection.
+- Applied unsupervised learning techniques (K-Means, Isolation Forest) to identify spending patterns and unusual transactions.
+- Integrated LLM-based financial insight generation and deployed the application using Streamlit Cloud.
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: ishikapatangay@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/ishika-patangay  
-- 💻 GitHub: https://github.com/vishal-starlight  
+- 💻 GitHub: https://github.com/ishh-starlight
 
 ---
 
